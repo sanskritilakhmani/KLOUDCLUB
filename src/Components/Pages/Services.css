@@ -1,0 +1,21 @@
+.main2 {
+    position: relative;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--main-color);
+}
+.main2 h1 {
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+}
+.image2 {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
